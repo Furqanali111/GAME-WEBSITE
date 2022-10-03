@@ -2,7 +2,7 @@
 In this proejct we have created a website for our 2d game using html and css.                           
 It allows the user to download the game and play later on.                              
 The website contains the information of the characters used in the game and their Back story.
-#Output Images
+# Output Images
 ![image](https://user-images.githubusercontent.com/77490589/193577932-86757ee7-df0a-4518-a50e-f91848daf9b7.png)
 ![image](https://user-images.githubusercontent.com/77490589/193577973-65cd9b42-f30e-4c25-9876-d2764d271a49.png)
 ![image](https://user-images.githubusercontent.com/77490589/193578017-e39d2474-8b60-42b4-9cb2-94ee23549555.png)
